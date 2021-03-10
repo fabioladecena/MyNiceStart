@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Nice Start</string>
+    <string name="app_bar_menu_share">Share</string>
+    <string name="app_bar_menu_search">Search</string>
+    <string name="app_bar_menu_bookmark">Bookmark</string>
+    <string name="action_settings">Settings</string>
+</resources>
