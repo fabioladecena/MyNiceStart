@@ -30,6 +30,7 @@ import com.google.android.material.snackbar.Snackbar;
  * @see MainActivity2
  */
 public class MainActivity extends AppCompatActivity {
+
     protected Button goproButton;
     protected ImageView avatarIV;
     private SwipeRefreshLayout swipeLayout;
